@@ -12,9 +12,8 @@ module.exports = {
 	content: ['./src/**/*.{html,css,svelte}'],
 	theme: {
 		colors: {
-			primary: colors.rose,
-			secondary: colors.emerald,
-			prime: withOpacityValue('prime-color'),
+			primary: colors.lime,
+			secondary: colors.sky,
 			copy: {
 				base: withOpacityValue('copy-base-color'),
 				muted: withOpacityValue('copy-muted-color'),

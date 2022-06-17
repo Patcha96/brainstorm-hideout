@@ -11,9 +11,9 @@
 	>
 		<div class="mb-2 text-5xl lg:text-6xl">
 			<div>Share your ideas on</div>
-			<div class="flex justify-center">
+			<div class="sm:justify-none flex justify-center">
 				🧠
-				<div class="font-thin text-prime">Brainstorm Hideout</div>
+				<div class="font-thin text-primary-400">Brainstorm Hideout</div>
 				🧠
 			</div>
 		</div>

@@ -11,7 +11,7 @@
 		target="_blank"
 		rel="noopener noreferrer"
 		aria-label="checkout the source code at the github repo"
-		class="transition-colors hover:text-prime"
+		class="transition-colors hover:text-primary-400"
 	>
 		<GitHubIcon class="w-5" />
 	</a>
